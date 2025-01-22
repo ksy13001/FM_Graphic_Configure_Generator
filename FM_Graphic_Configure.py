@@ -8,7 +8,6 @@ maps_list = root.find(".//list[@id='maps']")
 
 
 def indent(elem, level=0):
-    """XML 들여쓰기를 적용하기 위한 재귀 함수."""
     i = "\n" + "    " * level
     if len(elem):
         if not elem.text or not elem.text.strip():
@@ -38,7 +37,6 @@ def add_new_record(img):
     new_record.set("from", img_name)
     new_record.set("to", get_path(img_name))
     maps_list.append(new_record)
-    print("새로운 record가 추가되었습니다." + img_name)
 
 
 for file in os.listdir(os.getcwd()):
