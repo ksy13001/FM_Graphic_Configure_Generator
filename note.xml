@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<record>
+  
+	
+
+	
+	
+  <boolean id="preload" value="false"/>
+  
+
+	
+	
+  <boolean id="amap" value="false"/>
+  
+
+	
+	
+
+	
+  <list id="maps">
+    
+		
+    <record from="r-2002069448" to="graphics/pictures/person/2000256212/portrait"/>
+    
+		
+    <record from="2000256212" to="graphics/pictures/person/2000256212/portrait"/>
+    
+		
+    <record from="2000284187" to="graphics/pictures/person/2000284187/portrait"/>
+    
+		
+    <record from="r-2000130457" to="graphics/pictures/person/r-2000130457/portrait"/>
+    
+		
+    <record from="r-2002068565" to="graphics/pictures/person/r-2002068565/portrait"/>
+    
+		
+    <record from="r-2002068753" to="graphics/pictures/person/r-2002068753/portrait"/>
+    
+		
+    <record from="r-2002069448" to="graphics/pictures/person/r-2002069448/portrait"/>
+    
+		
+    <record from="r-2002069583" to="graphics/pictures/person/r-2002069583/portrait"/>
+    
+		
+    <record from="r-2002069786" to="graphics/pictures/person/r-2002069786/portrait"/>
+    
+		
+    <record from="r-2002097072" to="graphics/pictures/person/r-2002097072/portrait"/>
+    
+		
+    <record from="r-2002105161" to="graphics/pictures/person/r-2002105161/portrait"/>
+    
+		
+    <record from="r-2002107638" to="graphics/pictures/person/r-2002107638/portrait"/>
+    
+		
+    <record from="r-2002107957" to="graphics/pictures/person/r-2002107957/portrait"/>
+    
+		
+    <record from="r-2002115688" to="graphics/pictures/person/r-2002115688/portrait"/>
+    
+		
+    <record from="r-2002125375" to="graphics/pictures/person/r-2002125375/portrait"/>
+    
+		
+    <record from="r-2002141701" to="graphics/pictures/person/r-2002141701/portrait"/>
+    
+	
+    <record from="2000256212" to="graphics/pictures/person/2000256212/portrait"/>
+    <record from="2000284187" to="graphics/pictures/person/2000284187/portrait"/>
+    <record from="r-2000130457" to="graphics/pictures/person/r-2000130457/portrait"/>
+    <record from="r-2002068565" to="graphics/pictures/person/r-2002068565/portrait"/>
+    <record from="r-2002068753" to="graphics/pictures/person/r-2002068753/portrait"/>
+    <record from="r-2002069448" to="graphics/pictures/person/r-2002069448/portrait"/>
+    <record from="r-2002069583" to="graphics/pictures/person/r-2002069583/portrait"/>
+    <record from="r-2002069786" to="graphics/pictures/person/r-2002069786/portrait"/>
+    <record from="r-2002097072" to="graphics/pictures/person/r-2002097072/portrait"/>
+    <record from="r-2002105161" to="graphics/pictures/person/r-2002105161/portrait"/>
+    <record from="r-2002107638" to="graphics/pictures/person/r-2002107638/portrait"/>
+    <record from="r-2002107957" to="graphics/pictures/person/r-2002107957/portrait"/>
+    <record from="r-2002115688" to="graphics/pictures/person/r-2002115688/portrait"/>
+    <record from="r-2002125375" to="graphics/pictures/person/r-2002125375/portrait"/>
+    <record from="r-2002141701" to="graphics/pictures/person/r-2002141701/portrait"/>
+  </list>
+  
+
+</record>
