@@ -27,6 +27,9 @@ def get_path(name):
 
 def add_new_record(img):
     file = img.split('.')
+    print(file)
+    if len(file) == 1:
+        return
     img_name, img_format = file[0], file[1]
     if img_format not in apply_format:
         return
